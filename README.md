@@ -37,7 +37,15 @@
 
 ## 🔐 Cybersecurity
 
-Pentesting toolkit: nmap, masscan, ffuf, dirsearch, nuclei, hashcat, burpsuite, metasp loit, sqlmap
+Pentesting toolkit: nmap, masscan, ffuf, dirsearch, nuclei, hashcat, burpsuite, metasploit, sqlmap
+
+---
+
+## 👥 Contributors
+
+[![GitHub contributors](https://img.shields.io/github/contributors/444Nazky/portfolio?style=social)](https://github.com/444Nazky/portfolio/graphs/contributors)
+
+- [Altzaa 🤖](https://github.com/fufufafaselamatkanku) - AI Assistant
 
 ---
 
@@ -49,4 +57,3 @@ Pentesting toolkit: nmap, masscan, ffuf, dirsearch, nuclei, hashcat, burpsuite, 
 ---
 
 *Made with 💚 using goGreen* 🌱
-# Contributor: Altzaa 🤖
