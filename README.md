@@ -1,49 +1,51 @@
-# 🌱 goGreen 
+# 👋 Hi, I'm Nazky (444Nazky)
 
-With **goGreen**, you can make your profile look like you've been hard at work... even if you haven't. 
-NodeJs script to make commits to the past (or the future) to go green on GitHub.
+![Profile Views](https://komarev.com/ghpvc/?username=444Nazky&color=green)
+![GitHub followers](https://img.shields.io/github/followers/444Nazky?style=social)
 
-## About
+> **System:** Lenovo 83LY - Arch Linux | Hyprland + Caelestia | i7-13650HX | RTX 5050
 
-**goGreen** helps you create commits on your GitHub profile for any date in the past. Whether you want to fill up your contribution graph or even make cool patterns and artwork.
+---
 
-## Getting Started
+## 🛠️ Tech Stack
 
-Follow these steps to bring your contribution graph to life:
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-1. **Clone this repository**
-```bash
-git clone https://github.com/fenrir2608/goGreen.git
-cd goGreen
-```
-3. **Set up your project**
-Initialize a new Node.js project:
-```bash
-npm init -y
-  ```
-3. **Install the required npm modules**
-You'll need a few modules to get everything running smoothly. Install them all with:
-  ```bash
-  npm install moment simple-git random
-  ```
-4. **Create your commit script**
-- Create a JavaScript file to manage your commits.
-- Create a JSON file to store all the commit timestamp data.
+### Tools & Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## Room for Improvement
+### OS & Environment
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-00FF00?style=flat&logo=linux&logoColor=black)
+![Hyprland](https://img.shields.io/badge/Hyprland-24W9F3?style=flat&logo=wayland&logoColor=white)
 
-So, you've got the basics down. What's next?
+---
 
-- **Custom Patterns:** Experiment with different patterns on your contribution graph. Maybe spell out your name or create some cool designs.
-- **Density Control:** Play around with the number of commits per day to adjust the shades of green.
-- **Input Strings:** Convert input strings to X-Y mapped contributions.
+## 📊 GitHub Stats
 
-## npm Modules Used
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=444Nazky&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&theme=radical)
 
-- [`moment`](https://www.npmjs.com/package/moment) - Handles date and time manipulation.
-- [`simple-git`](https://www.npmjs.com/package/simple-git) - For easy Git commands.
-- [`random`](https://www.npmjs.com/package/random) - To generate random numbers for the commits.
+---
 
-## Credits
+## 🔐 Cybersecurity
 
-Huge thanks to [Akshay Saini](https://github.com/akshaymarch7) for the original video behind this project.
+Pentesting toolkit: nmap, masscan, ffuf, dirsearch, nuclei, hashcat, burpsuite, metasp loit, sqlmap
+
+---
+
+## 📫 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-444Nazky-181717?style=flat&logo=github&logoColor=white)](https://github.com/444Nazky)
+[![Email](https://img.shields.io/badge/Email-naruzky.naz@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naruzky.naz@gmail.com)
+
+---
+
+*Made with 💚 using goGreen* 🌱
