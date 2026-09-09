@@ -1,3 +1,7 @@
+# Vendor
+vendor/
+composer.lock
+
 # Logs
 logs
 *.log

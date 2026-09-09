@@ -1,65 +1,58 @@
-# 👋 Hi, I'm Nazky (444Nazky)
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=444Nazky&color=green)
-![GitHub followers](https://img.shields.io/github/followers/444Nazky?style=social)
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-> **System:** Lenovo 83LY - Arch Linux | Hyprland + Caelestia | i7-13650HX | RTX 5050
+## About Laravel
 
----
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-## 🛠️ Tech Stack
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-### Tools & Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## Learning Laravel
 
-### OS & Environment
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-00FF00?style=flat&logo=linux&logoColor=black)
-![Hyprland](https://img.shields.io/badge/Hyprland-24W9F3?style=flat&logo=wayland&logoColor=white)
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
----
+In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## 📊 GitHub Stats
+You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=444Nazky&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&theme=radical)
+## Agentic Development
 
----
+Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
 
-## 🔐 Cybersecurity
+```bash
+composer require laravel/boost --dev
 
-Pentesting toolkit: nmap, masscan, ffuf, dirsearch, nuclei, hashcat, burpsuite, metasploit, sqlmap
+php artisan boost:install
+```
 
----
+Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
 
-## 👥 Contributors
+## Contributing
 
-[![GitHub contributors](https://img.shields.io/github/contributors/444Nazky/portfolio?style=social)](https://github.com/444Nazky/portfolio/graphs/contributors)
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-- [Altzaa 🤖](https://github.com/fufufafaselamatkanku) - AI Assistant
+## Code of Conduct
 
----
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## 📫 Connect
+## Security Vulnerabilities
 
-[![GitHub](https://img.shields.io/badge/GitHub-444Nazky-181717?style=flat&logo=github&logoColor=white)](https://github.com/444Nazky)
-[![Email](https://img.shields.io/badge/Email-naruzky.naz@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naruzky.naz@gmail.com)
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
----
+## License
 
-*Made with 💚 using goGreen* 🌱
-test
-update 1
-update 2
-update 3
-update 4
-update 5
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
