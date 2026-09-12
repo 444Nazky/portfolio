@@ -4,14 +4,11 @@
 
 A modern, single-page developer portfolio for **Narutama Nazril Khairrazky** — Linux-enthusiast backend developer focused on offensive security and infrastructure hardening.
 
-![Theme](https://img.shields.io/badge/theme-ultra_dark_cyber-0D0D0D?style=flat-square)
-![Next.js](https://img.shields.io/badge/next.js-16.3.5-black?style=flat-square&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/tailwind-v4-38BDF8?style=flat-square&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/typescript-5-blue?style=flat-square&logo=typescript)
+**Theme:** Ultra-dark cyber · **Framework:** Next.js 16 · **Styling:** Tailwind CSS v4 · **Language:** TypeScript
 
 ---
 
-## ✨ Features
+## Features
 
 - **Ultra-dark cyber aesthetic** — `#0D0D0D` base with high-contrast neon green (`#C6FF00`) accents
 - **Fully responsive** — mobile, tablet, and desktop viewports
@@ -21,7 +18,7 @@ A modern, single-page developer portfolio for **Narutama Nazril Khairrazky** —
 - **Scrollspy navigation** — active link highlighting + translucent sticky header
 - **Pure CSS animations** — respects `prefers-reduced-motion`
 
-## 🧱 Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -32,7 +29,7 @@ A modern, single-page developer portfolio for **Narutama Nazril Khairrazky** —
 | [Archivo](https://fonts.google.com/specimen/Archivo) | Geometric display font |
 | [Inter](https://fonts.google.com/specimen/Inter) | Body font (via `next/font/google`) |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 3rddummy/
@@ -54,7 +51,7 @@ A modern, single-page developer portfolio for **Narutama Nazril Khairrazky** —
 └── package.json
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # install dependencies
@@ -66,7 +63,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) — the page hot-reloads as you edit.
 
-### Production build
+### Production Build
 
 ```bash
 npm run build   # type-checks + builds
@@ -74,39 +71,35 @@ npm run start   # serve the production build
 npm run lint    # run ESLint
 ```
 
-## 🎨 Customization
+## Customization
 
-- **Colors** — edit the CSS variables in `app/globals.css` (`--neon`, `--background`, `--card`, ...)
+- **Colors** — edit the CSS variables in `app/globals.css` (`--neon`, `--background`, `--card`, and others)
 - **Fonts** — swap `Archivo` / `Inter` in `app/layout.tsx`
-- **Content** — every section's data (certs, experience, awards, links) lives at the top of its component file
+- **Content** — every section's data (certifications, experience, awards, links) lives at the top of its component file
 - **Headshot** — the About card uses a designed placeholder; drop a photo in `public/` and update `components/About.tsx`
-- **Real links** — replace the `#` / placeholder social links in `components/Hero.tsx` and `components/Footer.tsx`
+- **Real links** — replace the placeholder social links in `components/Hero.tsx` and `components/Footer.tsx`
 
-## 🚢 Deploy
+## Deployment
 
-### Vercel (recommended)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
+Deploy to [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) directly, or from the CLI:
 
 ```bash
 npm i -g vercel
 vercel
 ```
 
-### Notes
+**Notes:** the project is not yet a git repository. Run `git init` at the project root to silence the `package-lock.json` warning, or set `turbopack.root` in `next.config.ts`.
 
-- The repo currently isn't a git repo; run `git init` at the project root to silence the `package-lock.json` warning (or set `turbopack.root` in `next.config.ts`).
-
-## 🏆 Credits
+## Credits
 
 - **Design & Build** — [Narutama Nazril Khairrazky](mailto:naruzky.naz@gmail.com) (Nazky)
 - **Framework** — [Next.js](https://nextjs.org) by Vercel
 - **Styling** — [Tailwind CSS](https://tailwindcss.com)
-- **Fonts** — [Archivo](https://fonts.google.com/specimen/Archivo) & [Inter](https://fonts.google.com/specimen/Inter) via Google Fonts
-- **Icons** — Inline SVGs, hand-rolled
-- **Content placeholder** — certificate/award copy is dummy data; swap in your real credentials
+- **Fonts** — [Archivo](https://fonts.google.com/specimen/Archivo) and [Inter](https://fonts.google.com/specimen/Inter) via Google Fonts
+- **Icons** — hand-rolled inline SVGs
+- **Content** — certification and award copy is placeholder data; replace with real credentials
 
-## ⚖️ License
+## License
 
 MIT — free to use, learn, and extend. Built for the RPL "Dummies" learning series.
 
